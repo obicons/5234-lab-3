@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
  * test push
  * Servlet implementation class HelloWorldServlet
  */
-
+//apple702
 @WebServlet("/hello")
 public class HelloWorldServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
