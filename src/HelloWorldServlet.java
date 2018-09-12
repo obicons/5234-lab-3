@@ -12,7 +12,9 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class HelloWorldServlet
  */
 //apple702
-//yuan644
+
+//apple702
+>>>>>>> branch 'master' of https://github.com/obicons/5234-lab-3
 @WebServlet("/hello")
 public class HelloWorldServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
